@@ -310,3 +310,12 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+.course {
+  text-decoration: none !important;
+}
+
+.course:hover {
+  color:#d2d2d2 !important;
+}
+
