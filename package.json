@@ -4,7 +4,8 @@
   "description": "a website portfolio",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node app.js"
   },
   "author": "christopher angeles",
   "license": "ISC",
